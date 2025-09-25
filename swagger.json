@@ -371,7 +371,6 @@
     }
   },
   "schemas": [
-    "http",
     "https"
   ]
 }
